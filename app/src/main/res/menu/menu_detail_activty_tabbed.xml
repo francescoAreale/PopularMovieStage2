@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="reale.francesco.com.popularmovie.DetailActivtyTabbed">
+    <item
+        android:id="@+id/action_preferit"
+        android:icon="@android:drawable/btn_star"
+        android:title="@string/action_settings"
+        app:showAsAction="ifRoom"
+        app:layout_scrollFlags="scroll|exitUntilCollapsed"
+        android:fitsSystemWindows="true"
+        />
+</menu>

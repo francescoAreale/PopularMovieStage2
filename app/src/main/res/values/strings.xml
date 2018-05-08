@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Popular Movie</string>
+    <string name="action_settings">Settings</string>
+    <string name="label_movie_image">Movie image</string>
+    <string name="PopularMovie">Popular Movie</string>
+    <string name="TopRated">Top Rated Movie</string>
+    <string name="PreferitMovies">Preferit Movie</string>
+    <string-array name="order_array">
+        <item>Popular Movie</item>
+        <item>Top Rated</item>
+        <item>Your Preferit Movie</item>
+    </string-array>
+
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_movie_detail">MovieDetailActivity</string>
+    <string name="placeholder_title">Dragon Ball </string>
+    <string name="label_movie_average_vote">Vote</string>
+    <string name="vote_avarage">8/10</string>
+    <string name="placeholder_date">27.04.2018</string>
+    <string name="retry_connection">Retry To Connect</string>
+    <string name="close_dialog">CLose Dialog</string>
+    <string name="internet_error">no internet access! you can only check preferit movies</string>
+    <string name="internet_error_detail">no internet access! please reload with connection enable</string>
+    <string name="NO_ISTANCE_AVAILABLE">NO MOVIE AVAILABLE</string>
+    <string name="title_activity_detail_new">ActivityDetailNew</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_detail_activty_tabbed">DetailActivtyTabbed</string>
+    <string name="tab_text_1">General</string>
+    <string name="tab_text_2">Trailers</string>
+    <string name="tab_text_3">Reviews</string>
+    <string name="NO_TREILER_AVAILABLE">NO TRAILER AVAILABLE</string>
+    <string name="NO_REVIEW_AVAILABLE">NO REVIEW AVAILABLE</string>
+</resources>
